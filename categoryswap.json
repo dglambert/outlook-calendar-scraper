@@ -1,0 +1,46 @@
+[
+    {
+        "rgb": "rgb(0, 120, 212)", 
+        "text": "NO CATEGORY DEFINED"
+    },
+    {
+        "rgb": "rgb(202, 80, 16)", 
+        "text": "Admin/Manager"
+    }, 
+    {
+        "rgb": "rgb(231, 72, 86)", 
+        "text": "BUFFER"
+    },
+    {
+        "rgb": "rgb(135, 100, 184)", 
+        "text": "Project Management"
+    },
+    {
+        "rgb": "rgb(11, 106, 11)", 
+        "text": "Solution Design / Solution Design Review"
+    },
+    {
+        "rgb": "rgb(92, 0, 92)", 
+        "text": "BA"
+    },
+    {
+        "rgb": "rgb(244, 149, 191)", 
+        "text": "Onboarding"
+    },
+    {
+        "rgb": "rgb(115, 170, 36)", 
+        "text": "Code Review"
+    },   
+    {
+        "rgb": "rgb(0, 75, 28)", 
+        "text": "Social/Personal"
+    },   
+    {
+        "rgb": "rgb(0, 188, 242)", 
+        "text": "Exercise"
+    },   
+    {
+        "rgb": "rgb(0, 75, 80)", 
+        "text": "Windows 10 Laptop Migration"
+    }
+]
