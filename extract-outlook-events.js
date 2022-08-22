@@ -47,6 +47,8 @@ let getCalendarEvent = function(calendarEventElement) {
     }
 
     let duration = ((endDate - startDate) / 60000) / 60;
+    let castDurationTo15Minutes = duration % 0.25;
+    duration = duration - castDurationTo15Minutes;
 
 
     shortenedText = shortenedText.replace(fullDurationRegexMatch[0], "");
